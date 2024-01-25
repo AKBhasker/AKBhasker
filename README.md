@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AKBhasker
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in Full Stack Web Developement
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akhilesh904496@gmail.com, johnnicolas0307@gmail.com
