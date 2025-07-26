@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKBhasker
+- 👋 Hi, I’m @AKBhaskar
 - 👀 I’m interested in Full Stack Web Developement
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
